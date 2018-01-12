@@ -11,12 +11,14 @@
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-server</artifactId>
-            <version>9.4.8.v20171121</version>
+            <version>9.4.9-SNAPSHOT</version>
+            <!--<version>9.4.8.v20171121</version>-->
         </dependency>
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-http-spi</artifactId>
-            <version>9.4.8.v20171121</version>
+            <version>9.4.9-SNAPSHOT</version>
+            <!--<version>9.4.8.v20171121</version>-->
         </dependency>
     </dependencies>
 </project>
